@@ -54,6 +54,7 @@
     border: 0;
     outline: 0;
     font-size: 15px;
+    cursor: pointer;
 }
 
 @media (max-width: 200px) {
